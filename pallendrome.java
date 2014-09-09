@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author steew7981
  */
-public class palendrome {
+public class pallendrome {
     
     public static void main(String[] args) {
        String word;
